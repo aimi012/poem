@@ -17,8 +17,15 @@ h1 {
 .text {
     font-weight: 500;
     font-family: 'Inconsolata', monospace;
-    padding: 25%;
+    padding: 15%;
     background: rgba(0, 0, 0, 0.9) url('https://images.unsplash.com/photo-1506102383123-c8ef1e872756?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
     line-height: 2rem;
+}
+
+.footer{
+    background-image: url('1.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
 }
 
